@@ -1,5 +1,5 @@
 
-using Microsoft.Playwright;
+/*using Microsoft.Playwright;
 
 namespace Demo;
 
@@ -50,3 +50,4 @@ public class Tests
         await page.GotoAsync(url:"https://demos.telerik.com/kendo-ui/window/angular");
     }
 }
+*/

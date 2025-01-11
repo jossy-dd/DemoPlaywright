@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dinora\\Documents\\Playwright automation\\DemoPlaywright\\Demo\\Demo.csproj": {}
+    "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dinora\\Documents\\Playwright automation\\DemoPlaywright\\Demo\\Demo.csproj": {
+    "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dinora\\Documents\\Playwright automation\\DemoPlaywright\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\Dinora\\Documents\\Playwright automation\\DemoPlaywright\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\Dinora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dinora\\Documents\\Playwright automation\\DemoPlaywright\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dinora\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
