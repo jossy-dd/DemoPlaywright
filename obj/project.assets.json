@@ -1706,11 +1706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "c:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\Demo.csproj",
+      "projectPath": "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo.csproj",
       "packagesPath": "C:\\Users\\Dinora\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\obj\\",
+      "outputPath": "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dinora\\AppData\\Roaming\\NuGet\\NuGet.Config"

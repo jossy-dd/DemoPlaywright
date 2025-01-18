@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zu6d8XQdc/Y=",
+  "dgSpecHash": "p2qI248uQIQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo\\Demo.csproj",
+  "projectFilePath": "C:\\Users\\Dinora\\OneDrive\\Documentos\\DemoPlaywright\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dinora\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Dinora\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
