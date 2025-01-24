@@ -39,6 +39,6 @@ public class SignInPage
         public ILocator emailTextBox = page.Locator("css=input[placeholder='Email']");
         public ILocator phoneNumberTextBox = page.Locator("xpath=//form/input[3]");
         public ILocator resetLoginButton =  page.Locator("css=.reset-pwd-btn");
-        public ILocator informativeMessage = page.Locator("css=form p");
+        public ILocator informativeMessage = page.Locator("xpath=//p[@class='infoMsg']");
     }
 }
