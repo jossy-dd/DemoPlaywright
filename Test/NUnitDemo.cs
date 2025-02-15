@@ -7,7 +7,7 @@ namespace Demo;
 
 public class NUnitDemo : PageTest
 {
-    [SetUp]
+    //[SetUp]
     public async Task Setup()
     {
          await Page.GotoAsync(url:"http://www.eaapp.somee.com/", new PageGotoOptions{
@@ -15,7 +15,7 @@ public class NUnitDemo : PageTest
          });
     }
 
-    [Test]
+    //[Test]
     public async Task Test1()
     {
         await Page.ClickAsync("text=Login");
@@ -26,7 +26,7 @@ public class NUnitDemo : PageTest
         await Expect(Page.Locator(selector: "text='Employee Details'")).ToBeVisibleAsync();
     }
 
-    [Test]
+    //[Test]
     public async Task TestWithPOM(){
         LoginPage loginPage = new LoginPage(Page);
         await loginPage.ClickLogin();

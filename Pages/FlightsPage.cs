@@ -1,4 +1,3 @@
-using System;
 using Microsoft.Playwright;
 
 namespace Demo.Pages;

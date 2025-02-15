@@ -13,7 +13,7 @@ public class FlightsE2ETest: PageTest
 
     [Test]
     public async Task SearchForAFligth(){
-        FlightsPage flightsPage = new FlightsPage(Page);
-        await flightsPage.SearchForAFlight();
+        FlightsPage page = new FlightsPage(Page);
+        await page.SearchForAFlight();
     }
 }
